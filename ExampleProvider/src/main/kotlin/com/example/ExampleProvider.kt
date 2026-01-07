@@ -1,4 +1,4 @@
-package com.movies345.
+package com.movies345
 
 import com.lagradost.cloudstream3.MainAPI
 import com.lagradost.cloudstream3.SearchResponse
